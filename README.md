@@ -1,6 +1,9 @@
 Switchdrive Video Dummies: 
 https://drive.switch.ch/index.php/s/AtrdYISgIGqtdnm
 
+Metashape Scan anleitung: 
+https://sites.hslu.ch/werkstatt/3d-scan-photogrammetrie/
+
 ## C4D Projection Mapping herstellen
 ### Raumplanung
 Bilder an Referenzbildern ausrichten und die richtigen Dimensionen für das Objekt nutzen. 
@@ -69,7 +72,6 @@ https://www.youtube.com/watch?v=yCI8-XcaWrQ
 - Wiederhole die Prozedur für das zweite Objekt
 		
 		
-
 ### intermediate: Kamera kalibrieren und "Blickwinkel akkurat texturieren: 
 Um die Szenerie "realisitscher" zu machen könnten wir den Raum noch mit einem Foto Texturieren: wie ein solches Kamera Mapping gemacht wird seht ihr hier. 
 Auch, eine erste Möglichkeit wie solche realen Objekte mit virtuellen Objekten im Raum interagieren können werden wir sehen. 
