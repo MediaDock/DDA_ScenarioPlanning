@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=ghBwlgMImKc
 
 
 ### Image Projection
-Kamera zum Projektor umbauen:
+Cinema 4D Kamera zum "Projektor" umbauen:
 
 Nicko16:
 Image Projection
